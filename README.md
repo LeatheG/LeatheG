@@ -1,6 +1,6 @@
 - Hi, I’m @LeatheG
-- I’m interested in gaming and music
-- I’m currently learning everything
+- I’m interested in pretty much anything 🐦‍⬛
+- I’m currently learning code
 - Fun fact: I'm caffine insensitive and dyslexic
 
 <!---
